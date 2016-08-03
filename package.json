@@ -1,0 +1,19 @@
+{
+  "name": "test-aaronra",
+  "version": "1.0.0",
+  "description": "this is a sample npm package",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aaronra/npm-test-package.git"
+  },
+  "author": "Aaron Jared Randrup<aaronrandrup@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aaronra/npm-test-package/issues"
+  },
+  "homepage": "https://github.com/aaronra/npm-test-package#readme"
+}
